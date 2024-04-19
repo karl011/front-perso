@@ -4,7 +4,6 @@ Il s'agit d'une application qui met en lumière mes activités du passé et mon 
 
 ## Le contenu sera mis à jour pour plus d'inforamtions
 
-### Le lien du repository accessible sur github :
-[Le lien du respository](https://github.com/karl011/front-perso.git)
+# [Le lien d'accès au respository](https://github.com/karl011/front-perso.git)
 
-### Accessible en ligne depuis ce lien :
+# [Le lien d'accès au portfolio en ligne](https://dotemin-portfolio.onrender.com/)
